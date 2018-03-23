@@ -1,0 +1,1 @@
+Uic'ing Graphics_Engine_2_4.ui...;C:\Qt\5.9.1\msvc2015\bin\uic.exe;"C:\Users\THISHAN\documents\visual studio 2015\Projects\Graphics_Engine_2_4\Graphics_Engine_2_4\Graphics_Engine_2_4.ui" -o ".\GeneratedFiles\ui_Graphics_Engine_2_4.h"  
